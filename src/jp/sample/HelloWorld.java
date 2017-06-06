@@ -5,7 +5,7 @@ public class HelloWorld {
 	 public static String[] data = new String[38];
 
 	public static void main (String[] args) {
-		data[0] = "学籍番号：趣味";
+		data[0] = "蟄ｦ邀咲分蜿ｷ�ｼ夊ｶ｣蜻ｳ";
 		data[1] = "";
 		data[2] = "";
 		data[3] = "";
@@ -37,12 +37,12 @@ public class HelloWorld {
 		data[29] = "";
 		data[30] = "";
 		data[31] = "";
-		data[32] = "";
+		data[32] = "4161132 釣り";
 		data[33] = "";
 		data[34] = "";
 		data[35] = "";
 		data[36] = "";
-		data[37] = "おわり";
+		data[37] = "終わり";
 
 		for (int i = 0;i < data.length; ++i) {
 			System.out.println(data[i]);
