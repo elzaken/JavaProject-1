@@ -5,7 +5,7 @@ public class HelloWorld {
 	 public static String[] data = new String[38];
 
 	public static void main (String[] args) {
-		data[0] = "蟄ｦ邀咲分蜿ｷ�ｼ夊ｶ｣蜻ｳ";
+		data[0] = "学籍番号:趣味";
 		data[1] = "";
 		data[2] = "";
 		data[3] = "";
